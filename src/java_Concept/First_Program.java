@@ -22,7 +22,7 @@ public class First_Program  {
 	
 		  void  fun()
 		 {
-			 System.out.println("Enter");
+			 System.out.println("Enteree");
 		 }
 		  void fun2()
 		 {
