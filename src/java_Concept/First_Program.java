@@ -26,7 +26,7 @@ public class First_Program  {
 		 }
 		  void fun2()
 		 {
-			 System.out.println("Printer"); 
+			 System.out.println("Printerrrrrr"); 
 		 }
 		 static  void fun3()
 		 {
