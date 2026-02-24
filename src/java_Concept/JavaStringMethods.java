@@ -114,11 +114,6 @@ public class JavaStringMethods {
 			String j = String.join("--","Mitaly jha");
 			System.out.println(j);
 			 
-			// startsWith
-			 String j1 = startsWith("java","J");
-			 
-			
-			//endswith
 			
 			
 			
