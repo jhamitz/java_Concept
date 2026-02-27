@@ -1,5 +1,4 @@
-package java_Concept;
-
+package Strings;
 import java.util.Arrays;
 
 public class Anagram {

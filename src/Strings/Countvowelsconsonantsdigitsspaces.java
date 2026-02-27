@@ -1,4 +1,4 @@
-package java_Concept;
+package Strings;
 // 3. Count vowels, consonants, digits, spaces
 public class Countvowelsconsonantsdigitsspaces {
 

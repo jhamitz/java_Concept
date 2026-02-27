@@ -1,4 +1,4 @@
-package java_Concept;
+package Strings;
 
 public class IsFunction {
 	//Isdigit-->checks character is number(0 to 9)

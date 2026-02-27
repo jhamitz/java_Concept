@@ -1,4 +1,4 @@
-package java_Concept;
+package Strings;
 
 public class PalindromString {
 	public static void main(String args[])
