@@ -1,8 +1,6 @@
 package Strings;
 
-public class Array1 {
-	public static void main(String args[])
-	{
+
 		//innitializing aaray and memory allocation
 		/*int a[] = new int[4];
 		a[0]=8;
@@ -36,7 +34,7 @@ public class Array1 {
 		 
 		System.out.println(b[1][1]);*/
 		
-		int d[][] = {{1,6,7},{34,8,4}};
+		/*int d[][] = {{1,6,7},{34,8,4}};
 		
 		for(int i = 0 ; i<2; i++)
 		{
@@ -49,4 +47,17 @@ public class Array1 {
 		
 	}
 
-}
+}*/
+
+public class Array1 {
+	public static void main(String args[])
+	{
+		String str = "mitaly";
+		String rev ="";
+		for(int i = str.length()-1; i>=0;i--)
+		{
+			rev = rev+str.charAt(i);
+		}
+	System.out.println(rev);
+	}
+	}
